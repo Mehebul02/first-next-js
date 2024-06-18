@@ -27,6 +27,14 @@ const Navbar = () => {
       title: "Blogs",
       path: "/blogs",
     },
+    {
+      title: "Posts",
+      path: "/posts",
+    },
+    {
+      title: "Dashboard",
+      path: "/dashboard",
+    },
     
   ];
   const handler = () => {
